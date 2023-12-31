@@ -321,12 +321,12 @@ a.author{
 
 
 a.author{
-        font-size: 25px;
+        font-size: 35px;
         text-decoration: none;
         color: #20002e;
         position: fixed;
-        bottom: 10px;
-        right: 10px;
+        bottom: 20px;
+        right: 20px;
 }
 
 .feliz {
